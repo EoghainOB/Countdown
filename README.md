@@ -1,8 +1,8 @@
 # Countdown Timer
 
-A basic countdown timer made using React. The user enters the number in seconds and starts the countdown. The number counts down while also displaying a coloured progress bar.
+A countdown timer made using React. The user enters the number in seconds and starts the countdown. The number counts down while also displaying a coloured progress bar and displays the time at which the timer ended.
 
-<img width="800" alt="Countdown" src="https://user-images.githubusercontent.com/110406695/211787724-e6d52c50-7450-41e0-a016-8ccd52669db2.png">
+![countdown](https://github.com/EoghainOB/Countdown/assets/110406695/8a5a56c0-0637-42af-8ff1-1c9c03516ddf)
 
 <i>This project is made using: </i>
 
